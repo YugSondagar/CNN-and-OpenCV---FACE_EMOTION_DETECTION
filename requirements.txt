@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+tensorflow == 2.15.0
+ipykernel
+tqdm
+streamlit
+opencv-python
